@@ -1,0 +1,12 @@
+.colored {
+    background-color: #5000a2;
+    color: white;
+}
+#first-element:hover,
+#second-element:hover {
+    cursor: pointer;
+}
+img {
+    width: 300px;
+    display: block;
+}
